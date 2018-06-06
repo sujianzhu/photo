@@ -23,3 +23,20 @@ function curl_get($url){
 function jsonTo($code, $msg = '', $data = ''){
     return json(array('code'=>$code, 'msg'=>$msg, 'data'=>$data));
 }
+
+//获取字符长度
+function absLen($str,$charset='utf-8'){
+    if($charset=='utf-8') $str = iconv('utf-8','gb2312',$str);
+    $num = strlen($str);
+    $cnNum = 0;
+    for($i=0;$i<$num;$i++){
+        if(ord(substr($str,$i+1,1))>127){
+            $cnNum++;
+            $i++;
+        }
+    }
+    $enNum = $num-($cnNum*2);
+    $number = ($enNum/2)+$cnNum;
+    return ceil($number);
+}
+
