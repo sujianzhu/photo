@@ -4,6 +4,10 @@ use think\Model;
 
 class UserModel extends Model{
 
+    public function user(){
+        return $this->hasMany('ForumModel','fid','fid');
+    }
+
     //授权登陆
     public function login($wxuserinfo){
         $userinfo = $this->where('unionid',$wxuserinfo['unionId'])->find();

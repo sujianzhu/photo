@@ -16,6 +16,15 @@ class ForumModel extends Model{
         return time();
     }
 
+    //关联user表
+    public function user(){
+        return $this->belongsTo('UserModel');
+    }
+
+    public function getList(){
+        return $this->with('user')->order('create_time desc')->paginate(4);
+    }
+
     public function publish($uid,$data){
         $data['uid'] = $uid;
         $validate = new ForumValidate;
