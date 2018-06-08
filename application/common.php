@@ -40,3 +40,8 @@ function absLen($str,$charset='utf-8'){
     return ceil($number);
 }
 
+//加密时间戳
+function sha1Microtime(){
+    return sha1(microtime());
+}
+

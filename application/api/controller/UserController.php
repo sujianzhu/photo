@@ -1,7 +1,6 @@
 <?php
 namespace app\api\controller;
 
-use app\api\model\ForumModel;
 use app\api\model\UserModel;
 
 class UserController extends BaseController{
@@ -38,18 +37,11 @@ class UserController extends BaseController{
     public function upload(){
         $file = request()->file('pics');
         $savepath = 'uploads/forum/'.$this->loginuser['original_id'];
-        $info = $file->validate(['size'=>25*1024*1024,'ext'=>'jpg,png,gif'])->move($savepath);
+        $info = $file->validate(['size'=>25*1024*1024,'ext'=>'jpg,png,gif'])->rule('sha1Microtime')->move($savepath);
         if($info){
             return jsonTo(1,'上传成功',$savepath.'/'.$info->getSaveName());
         }else{
             return jsonTo(0,'');
         }
-    }
-
-    //发布图片
-    public function publish(){
-        $forumModel = new ForumModel;
-        $res = $forumModel->publish($this->loginuser['uid'],input('post.'));
-        return json($res);
     }
 }

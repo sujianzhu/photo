@@ -9,6 +9,7 @@ use think\Validate;
 class ForumValidate extends Validate{
 
     protected $rule = array(
+        'cid' => 'require',
         'title' => 'max:8',
         'summary' => 'max:140',
         'pic' => 'require',
@@ -16,6 +17,7 @@ class ForumValidate extends Validate{
     );
 
     protected $message = array(
+        'cid.require' => '请选择图片分类！',
         'title.max' => '标题不超过8个文字！',
         'summary.max' => '描述不超过140个文字！',
         'pic.require' => '图片未上传！',
