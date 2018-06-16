@@ -1,7 +1,7 @@
 <?php
 namespace app\api\controller;
 use think\Controller;
-use app\api\model\UserModel;
+use app\common\model\UserModel;
 
 class BaseController extends Controller{
 
