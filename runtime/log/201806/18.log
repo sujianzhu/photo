@@ -1,0 +1,3355 @@
+---------------------------------------------------------------
+[ 2018-06-18T18:39:47+08:00 ] 127.0.0.1 GET photo.p/admin/index/login
+[运行时间：0.046018s] [吞吐率：21.73req/s] [内存消耗：2,356.02kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T18:39:47+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.022554s] [吞吐率：44.34req/s] [内存消耗：1,569.55kb] [文件加载：50]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T18:39:48+08:00 ] 127.0.0.1 GET photo.p/admin/index/login
+[运行时间：0.027476s] [吞吐率：36.40req/s] [内存消耗：2,165.59kb] [文件加载：66]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T18:39:48+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.011918s] [吞吐率：83.91req/s] [内存消耗：1,569.55kb] [文件加载：50]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T18:39:48+08:00 ] 127.0.0.1 GET photo.p/admin/index/login
+[运行时间：0.024015s] [吞吐率：41.64req/s] [内存消耗：2,165.59kb] [文件加载：66]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T18:39:48+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.011378s] [吞吐率：87.89req/s] [内存消耗：1,569.55kb] [文件加载：50]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T18:39:48+08:00 ] 127.0.0.1 GET photo.p/admin/index/login
+[运行时间：0.057768s] [吞吐率：17.31req/s] [内存消耗：2,165.59kb] [文件加载：66]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T18:39:48+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.018716s] [吞吐率：53.43req/s] [内存消耗：1,569.55kb] [文件加载：50]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T21:50:54+08:00 ] 127.0.0.1 GET photo.p/admin/index/login
+[运行时间：0.049588s] [吞吐率：20.17req/s] [内存消耗：2,356.10kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T21:50:54+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.035478s] [吞吐率：28.19req/s] [内存消耗：1,573.91kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T21:54:35+08:00 ] 127.0.0.1 GET photo.p/admin/index/login
+[运行时间：0.052233s] [吞吐率：19.14req/s] [内存消耗：2,355.84kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T21:54:35+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.038002s] [吞吐率：26.31req/s] [内存消耗：1,573.91kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T21:54:36+08:00 ] 127.0.0.1 GET photo.p/admin/index/login
+[运行时间：0.027266s] [吞吐率：36.68req/s] [内存消耗：2,165.70kb] [文件加载：66]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T21:54:36+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.016786s] [吞吐率：59.57req/s] [内存消耗：1,573.91kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T21:54:36+08:00 ] 127.0.0.1 GET photo.p/admin/index/login
+[运行时间：0.018534s] [吞吐率：53.96req/s] [内存消耗：2,165.70kb] [文件加载：66]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T21:54:36+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.015112s] [吞吐率：66.17req/s] [内存消耗：1,573.91kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T21:54:36+08:00 ] 127.0.0.1 GET photo.p/admin/index/login
+[运行时间：0.019601s] [吞吐率：51.02req/s] [内存消耗：2,165.70kb] [文件加载：66]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T21:54:36+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.016531s] [吞吐率：60.49req/s] [内存消耗：1,573.91kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T21:54:36+08:00 ] 127.0.0.1 GET photo.p/admin/index/login
+[运行时间：0.033479s] [吞吐率：29.87req/s] [内存消耗：2,165.70kb] [文件加载：66]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T21:54:36+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.015048s] [吞吐率：66.45req/s] [内存消耗：1,573.91kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T22:02:18+08:00 ] 127.0.0.1 GET photo.p/admin/index/login
+[运行时间：0.062548s] [吞吐率：15.99req/s] [内存消耗：2,355.84kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T22:02:18+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.015922s] [吞吐率：62.81req/s] [内存消耗：1,573.91kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T22:09:35+08:00 ] 127.0.0.1 GET photo.p/admin/index/login
+[运行时间：0.052606s] [吞吐率：19.01req/s] [内存消耗：2,353.48kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T22:09:35+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.014486s] [吞吐率：69.03req/s] [内存消耗：1,573.91kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T22:16:50+08:00 ] 127.0.0.1 GET photo.p/admin/index/login
+[运行时间：0.055427s] [吞吐率：18.04req/s] [内存消耗：2,352.26kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T22:16:50+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.041752s] [吞吐率：23.95req/s] [内存消耗：1,573.91kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T22:16:54+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.032791s] [吞吐率：30.50req/s] [内存消耗：2,164.36kb] [文件加载：66]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'content-length' => '22',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'userName' => 'hg',
+  'password' => 'g',
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T22:17:00+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.018456s] [吞吐率：54.18req/s] [内存消耗：2,164.36kb] [文件加载：66]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'content-length' => '22',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'userName' => 'hg',
+  'password' => 'g',
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T22:17:04+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.020198s] [吞吐率：49.51req/s] [内存消耗：2,164.36kb] [文件加载：66]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'content-length' => '22',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'userName' => 'hg',
+  'password' => 'g',
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T22:17:09+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.017544s] [吞吐率：57.00req/s] [内存消耗：2,164.36kb] [文件加载：66]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'content-length' => '22',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'userName' => 'hg',
+  'password' => 'g',
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T22:17:14+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.018608s] [吞吐率：53.74req/s] [内存消耗：2,164.36kb] [文件加载：66]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'content-length' => '22',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'userName' => 'hg',
+  'password' => 'g',
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T22:23:10+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.051291s] [吞吐率：19.50req/s] [内存消耗：2,018.23kb] [文件加载：61]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'content-length' => '22',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'userName' => 'hg',
+  'password' => 'g',
+)
+---------------------------------------------------------------
+[ 2018-06-18T22:25:10+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.041435s] [吞吐率：24.13req/s] [内存消耗：2,351.40kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'content-length' => '22',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'userName' => 'hg',
+  'password' => 'g',
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T22:27:27+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.033387s] [吞吐率：29.95req/s] [内存消耗：2,017.97kb] [文件加载：61]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'content-length' => '22',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'userName' => 'hg',
+  'password' => 'g',
+)
+---------------------------------------------------------------
+[ 2018-06-18T22:43:59+08:00 ] 127.0.0.1 GET photo.p/admin/index/login
+[运行时间：0.024071s] [吞吐率：41.54req/s] [内存消耗：2,168.63kb] [文件加载：66]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T22:44:00+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.016422s] [吞吐率：60.89req/s] [内存消耗：1,573.91kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T22:44:06+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.096132s] [吞吐率：10.40req/s] [内存消耗：3,719.13kb] [文件加载：79]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'content-length' => '26',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'admin_name' => '44',
+  'admin_pwd' => '44',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024832s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.017539s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `admin_name` = '44'  AND `admin_pwd` = '98fbc42faedc02492397cb5962ea3a3ffc0a9243' LIMIT 1 [ RunTime:0.017016s ]
+[ error ] [8]Trying to get property of non-object[F:\wamp\www\htdocs\photo\application\common\model\AdminModel.php:12]
+---------------------------------------------------------------
+[ 2018-06-18T22:45:06+08:00 ] 127.0.0.1 GET photo.p/admin/index/login
+[运行时间：0.030643s] [吞吐率：32.63req/s] [内存消耗：2,168.63kb] [文件加载：66]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T22:45:06+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.015937s] [吞吐率：62.75req/s] [内存消耗：1,573.91kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T22:45:11+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.096222s] [吞吐率：10.39req/s] [内存消耗：3,719.13kb] [文件加载：79]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'content-length' => '26',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'admin_name' => 'gg',
+  'admin_pwd' => 'gg',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027798s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.019318s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `admin_name` = 'gg'  AND `admin_pwd` = 'f3226f91f77a87d909b8920adc91f9a301a7316b' LIMIT 1 [ RunTime:0.018970s ]
+[ error ] [8]Trying to get property of non-object[F:\wamp\www\htdocs\photo\application\common\model\AdminModel.php:12]
+---------------------------------------------------------------
+[ 2018-06-18T22:45:54+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.078912s] [吞吐率：12.67req/s] [内存消耗：3,604.53kb] [文件加载：73]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'content-length' => '26',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'admin_name' => 'gg',
+  'admin_pwd' => 'gg',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023983s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.015236s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `admin_name` = 'gg'  AND `admin_pwd` = 'f3226f91f77a87d909b8920adc91f9a301a7316b' LIMIT 1 [ RunTime:0.014878s ]
+---------------------------------------------------------------
+[ 2018-06-18T22:46:08+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.087770s] [吞吐率：11.39req/s] [内存消耗：3,608.48kb] [文件加载：73]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'content-length' => '33',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'admin_name' => 'admin',
+  'admin_pwd' => '123456',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026547s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.016224s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `admin_name` = 'admin'  AND `admin_pwd` = '7c4a8d09ca3762af61e59520943dc26494f8941b' LIMIT 1 [ RunTime:0.016026s ]
+---------------------------------------------------------------
+[ 2018-06-18T22:46:32+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.098592s] [吞吐率：10.14req/s] [内存消耗：3,659.79kb] [文件加载：75]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'content-length' => '30',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'admin_name' => 'dsfd',
+  'admin_pwd' => 'dsfd',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028933s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.018185s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `admin_name` = 'dsfd'  AND `admin_pwd` = '1e2fbc52fb7ce75c1c361329f49b9fe3d5bcac59' LIMIT 1 [ RunTime:0.018005s ]
+---------------------------------------------------------------
+[ 2018-06-18T22:47:55+08:00 ] 127.0.0.1 GET photo.p/admin/index/login
+[运行时间：0.018774s] [吞吐率：53.27req/s] [内存消耗：2,168.63kb] [文件加载：66]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T22:47:55+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.015027s] [吞吐率：66.55req/s] [内存消耗：1,573.91kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T22:48:02+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.107585s] [吞吐率：9.29req/s] [内存消耗：3,660.53kb] [文件加载：75]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'content-length' => '33',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'admin_name' => 'samsu',
+  'admin_pwd' => '123456',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.029986s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.017847s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `admin_name` = 'samsu'  AND `admin_pwd` = '7c4a8d09ca3762af61e59520943dc26494f8941b' LIMIT 1 [ RunTime:0.017624s ]
+---------------------------------------------------------------
+[ 2018-06-18T22:49:16+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.092349s] [吞吐率：10.83req/s] [内存消耗：3,605.48kb] [文件加载：73]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'content-length' => '33',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'admin_name' => 'samsu',
+  'admin_pwd' => '123456',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027525s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.017814s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `admin_name` = 'samsu'  AND `admin_pwd` = '7c4a8d09ca3762af61e59520943dc26494f8941b' LIMIT 1 [ RunTime:0.017010s ]
+---------------------------------------------------------------
+[ 2018-06-18T22:49:25+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.094776s] [吞吐率：10.55req/s] [内存消耗：3,605.48kb] [文件加载：73]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'content-length' => '33',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'admin_name' => 'samsu',
+  'admin_pwd' => '123456',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028336s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.018931s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `admin_name` = 'samsu'  AND `admin_pwd` = '7c4a8d09ca3762af61e59520943dc26494f8941b' LIMIT 1 [ RunTime:0.018410s ]
+---------------------------------------------------------------
+[ 2018-06-18T22:49:38+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.093125s] [吞吐率：10.74req/s] [内存消耗：3,609.57kb] [文件加载：73]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'content-length' => '33',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'admin_name' => 'admin',
+  'admin_pwd' => '123456',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.029024s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.016696s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `admin_name` = 'admin'  AND `admin_pwd` = '7c4a8d09ca3762af61e59520943dc26494f8941b' LIMIT 1 [ RunTime:0.015856s ]
+---------------------------------------------------------------
+[ 2018-06-18T22:49:52+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.141443s] [吞吐率：7.07req/s] [内存消耗：3,662.98kb] [文件加载：75]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'content-length' => '33',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'admin_name' => 'admin',
+  'admin_pwd' => '123456',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027837s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.017302s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `admin_name` = 'admin'  AND `admin_pwd` = '7c4a8d09ca3762af61e59520943dc26494f8941b' LIMIT 1 [ RunTime:0.018427s ]
+[ sql ] [ SQL ] UPDATE `pht_admin`  SET `last_time` = '1529333392' , `token` = '2540e5669bce6254975d38c5e572466c7f3ceffe'  WHERE  `admin_id` = 1 [ RunTime:0.017900s ]
+---------------------------------------------------------------
+[ 2018-06-18T22:49:53+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.019585s] [吞吐率：51.06req/s] [内存消耗：2,168.01kb] [文件加载：66]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'referer' => 'http://photo.p/admin/index/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T22:49:53+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.016869s] [吞吐率：59.28req/s] [内存消耗：1,573.92kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T22:50:42+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.116250s] [吞吐率：8.60req/s] [内存消耗：3,663.09kb] [文件加载：75]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'content-length' => '33',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'admin_name' => 'admin',
+  'admin_pwd' => '123456',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025598s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.015843s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `admin_name` = 'admin'  AND `admin_pwd` = '7c4a8d09ca3762af61e59520943dc26494f8941b' LIMIT 1 [ RunTime:0.015695s ]
+[ sql ] [ SQL ] UPDATE `pht_admin`  SET `last_time` = '1529333442' , `token` = 'f5895324574d08d65875618031559407fc694901'  WHERE  `admin_id` = 1 [ RunTime:0.015055s ]
+---------------------------------------------------------------
+[ 2018-06-18T22:50:42+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.018417s] [吞吐率：54.30req/s] [内存消耗：2,168.02kb] [文件加载：66]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T22:50:42+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.015363s] [吞吐率：65.09req/s] [内存消耗：1,573.92kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T22:55:28+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.038205s] [吞吐率：26.17req/s] [内存消耗：2,355.63kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => '_0=70,68,6f,74,6f,2e,70; pgv_pvi=7343655936; PHPSESSID=im8lcvordva8mht1p7jgl31671; pgv_si=s4891518976',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T22:55:28+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.018580s] [吞吐率：53.82req/s] [内存消耗：1,573.91kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T22:55:31+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.019957s] [吞吐率：50.11req/s] [内存消耗：2,167.83kb] [文件加载：66]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T22:55:31+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.030801s] [吞吐率：32.47req/s] [内存消耗：1,573.79kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T22:55:38+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.185759s] [吞吐率：5.38req/s] [内存消耗：3,668.60kb] [文件加载：76]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0',
+  'content-length' => '33',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'admin_name' => 'admin',
+  'admin_pwd' => '123456',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028647s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.022877s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `admin_name` = 'admin'  AND `admin_pwd` = '7c4a8d09ca3762af61e59520943dc26494f8941b' LIMIT 1 [ RunTime:0.019999s ]
+[ sql ] [ SQL ] UPDATE `pht_admin`  SET `last_time` = '1529333738' , `token` = '3c375bbed69605a2c0a1fc690badff6c506e481f'  WHERE  `admin_id` = 1 [ RunTime:0.019563s ]
+---------------------------------------------------------------
+[ 2018-06-18T22:55:38+08:00 ] 127.0.0.1 GET photo.p/admin/index/index.html
+[运行时间：0.025384s] [吞吐率：39.39req/s] [内存消耗：2,127.28kb] [文件加载：66]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=dd422e1d27a6a0109f388047e868eadeb1833e76',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[ 2018-06-18T22:58:20+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.022669s] [吞吐率：44.11req/s] [内存消耗：2,169.26kb] [文件加载：66]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=dd422e1d27a6a0109f388047e868eadeb1833e76',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T22:58:20+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.034251s] [吞吐率：29.20req/s] [内存消耗：1,573.84kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T22:58:26+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.119080s] [吞吐率：8.40req/s] [内存消耗：3,669.42kb] [文件加载：76]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=dd422e1d27a6a0109f388047e868eadeb1833e76',
+  'content-length' => '33',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'admin_name' => 'admin',
+  'admin_pwd' => '123456',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026024s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.015643s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `admin_name` = 'admin'  AND `admin_pwd` = '7c4a8d09ca3762af61e59520943dc26494f8941b' LIMIT 1 [ RunTime:0.015640s ]
+[ sql ] [ SQL ] UPDATE `pht_admin`  SET `last_time` = '1529333906' , `token` = 'ab15714a36534f1eb72130d8e35c2f8a3fa02885'  WHERE  `admin_id` = 1 [ RunTime:0.015133s ]
+---------------------------------------------------------------
+[ 2018-06-18T22:58:26+08:00 ] 127.0.0.1 GET photo.p/admin/index/index.html
+[运行时间：0.017247s] [吞吐率：57.98req/s] [内存消耗：2,048.93kb] [文件加载：62]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=0793fa6007a7be33fe0a32f07332dc7a9ed54f54',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[ 2018-06-18T23:12:31+08:00 ] 127.0.0.1 GET photo.p/admin/index/index.html
+[运行时间：0.052598s] [吞吐率：19.01req/s] [内存消耗：2,353.23kb] [文件加载：69]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=0793fa6007a7be33fe0a32f07332dc7a9ed54f54',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:12:34+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.028217s] [吞吐率：35.44req/s] [内存消耗：2,174.40kb] [文件加载：67]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=0793fa6007a7be33fe0a32f07332dc7a9ed54f54',
+  'referer' => 'http://photo.p/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:12:37+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.026103s] [吞吐率：38.31req/s] [内存消耗：2,174.40kb] [文件加载：67]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=0793fa6007a7be33fe0a32f07332dc7a9ed54f54',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:12:41+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.018805s] [吞吐率：53.18req/s] [内存消耗：2,174.40kb] [文件加载：67]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=0793fa6007a7be33fe0a32f07332dc7a9ed54f54',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:12:44+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.023416s] [吞吐率：42.71req/s] [内存消耗：2,174.40kb] [文件加载：67]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=0793fa6007a7be33fe0a32f07332dc7a9ed54f54',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:12:47+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.019232s] [吞吐率：52.00req/s] [内存消耗：2,174.40kb] [文件加载：67]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=0793fa6007a7be33fe0a32f07332dc7a9ed54f54',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:12:50+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.018646s] [吞吐率：53.63req/s] [内存消耗：2,174.40kb] [文件加载：67]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=0793fa6007a7be33fe0a32f07332dc7a9ed54f54',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:12:53+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.027264s] [吞吐率：36.68req/s] [内存消耗：2,174.40kb] [文件加载：67]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=0793fa6007a7be33fe0a32f07332dc7a9ed54f54',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:12:56+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.019909s] [吞吐率：50.23req/s] [内存消耗：2,174.40kb] [文件加载：67]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=0793fa6007a7be33fe0a32f07332dc7a9ed54f54',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:12:59+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.026108s] [吞吐率：38.30req/s] [内存消耗：2,174.40kb] [文件加载：67]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=0793fa6007a7be33fe0a32f07332dc7a9ed54f54',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:13:02+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.021213s] [吞吐率：47.14req/s] [内存消耗：2,174.40kb] [文件加载：67]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=0793fa6007a7be33fe0a32f07332dc7a9ed54f54',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:13:06+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.021593s] [吞吐率：46.31req/s] [内存消耗：2,174.40kb] [文件加载：67]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=0793fa6007a7be33fe0a32f07332dc7a9ed54f54',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:13:09+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.019195s] [吞吐率：52.10req/s] [内存消耗：2,174.40kb] [文件加载：67]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=0793fa6007a7be33fe0a32f07332dc7a9ed54f54',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:13:12+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.097049s] [吞吐率：10.30req/s] [内存消耗：3,760.77kb] [文件加载：79]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=0793fa6007a7be33fe0a32f07332dc7a9ed54f54',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027584s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.018701s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = '0793fa6007a7be33fe0a32f07332dc7a9ed54f54' LIMIT 1 [ RunTime:0.018526s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:13:12+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.017348s] [吞吐率：57.64req/s] [内存消耗：1,573.84kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T23:13:15+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.090027s] [吞吐率：11.11req/s] [内存消耗：3,759.89kb] [文件加载：79]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=0793fa6007a7be33fe0a32f07332dc7a9ed54f54',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027282s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.017606s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = '0793fa6007a7be33fe0a32f07332dc7a9ed54f54' LIMIT 1 [ RunTime:0.017296s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:13:15+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.019441s] [吞吐率：51.44req/s] [内存消耗：1,573.84kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T23:13:21+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.142425s] [吞吐率：7.02req/s] [内存消耗：3,675.09kb] [文件加载：76]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=0793fa6007a7be33fe0a32f07332dc7a9ed54f54',
+  'content-length' => '33',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'admin_name' => 'admin',
+  'admin_pwd' => '123456',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026351s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.016659s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = '0793fa6007a7be33fe0a32f07332dc7a9ed54f54' LIMIT 1 [ RunTime:0.016049s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `admin_name` = 'admin'  AND `admin_pwd` = '7c4a8d09ca3762af61e59520943dc26494f8941b' LIMIT 1 [ RunTime:0.016470s ]
+[ sql ] [ SQL ] UPDATE `pht_admin`  SET `last_time` = '1529334801' , `token` = 'f1f47b665cb2db33cac045d2a75b65493f2eb12c'  WHERE  `admin_id` = 1 [ RunTime:0.016015s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:13:21+08:00 ] 127.0.0.1 GET photo.p/admin/index/index.html
+[运行时间：0.087147s] [吞吐率：11.47req/s] [内存消耗：3,641.46kb] [文件加载：75]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025267s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.017662s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6' LIMIT 1 [ RunTime:0.017072s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:13:23+08:00 ] 127.0.0.1 GET photo.p/admin/index/index.html
+[运行时间：0.098346s] [吞吐率：10.17req/s] [内存消耗：3,641.43kb] [文件加载：75]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027834s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.019212s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6' LIMIT 1 [ RunTime:0.018910s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:13:24+08:00 ] 127.0.0.1 GET photo.p/admin/index/index.html
+[运行时间：0.090244s] [吞吐率：11.08req/s] [内存消耗：3,641.43kb] [文件加载：75]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028060s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.017730s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6' LIMIT 1 [ RunTime:0.017403s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:13:24+08:00 ] 127.0.0.1 GET photo.p/admin/index/index.html
+[运行时间：0.099200s] [吞吐率：10.08req/s] [内存消耗：3,641.43kb] [文件加载：75]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.029478s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.019111s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6' LIMIT 1 [ RunTime:0.022729s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:13:24+08:00 ] 127.0.0.1 GET photo.p/admin/index/index.html
+[运行时间：0.084153s] [吞吐率：11.88req/s] [内存消耗：3,641.43kb] [文件加载：75]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022666s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.015682s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6' LIMIT 1 [ RunTime:0.015837s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:13:27+08:00 ] 127.0.0.1 GET photo.p/admin/index/index.html
+[运行时间：0.100798s] [吞吐率：9.92req/s] [内存消耗：3,641.43kb] [文件加载：75]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.029995s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.017759s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6' LIMIT 1 [ RunTime:0.017141s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:13:27+08:00 ] 127.0.0.1 GET photo.p/admin/index/index.html
+[运行时间：0.085520s] [吞吐率：11.69req/s] [内存消耗：3,641.43kb] [文件加载：75]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026213s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.015938s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6' LIMIT 1 [ RunTime:0.015521s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:13:28+08:00 ] 127.0.0.1 GET photo.p/admin/index/index.html
+[运行时间：0.085252s] [吞吐率：11.73req/s] [内存消耗：3,641.43kb] [文件加载：75]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024571s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.017056s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6' LIMIT 1 [ RunTime:0.016495s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:14:33+08:00 ] 127.0.0.1 GET photo.p/admin/index/index.html
+[运行时间：0.099242s] [吞吐率：10.08req/s] [内存消耗：3,762.34kb] [文件加载：80]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028008s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.017840s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6' LIMIT 1 [ RunTime:0.017548s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:14:37+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.121549s] [吞吐率：8.23req/s] [内存消耗：3,762.48kb] [文件加载：80]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6',
+  'referer' => 'http://photo.p/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.029458s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.020099s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6' LIMIT 1 [ RunTime:0.020047s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:14:40+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.088532s] [吞吐率：11.30req/s] [内存消耗：3,762.48kb] [文件加载：80]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026272s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.017156s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6' LIMIT 1 [ RunTime:0.016405s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:14:43+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.091255s] [吞吐率：10.96req/s] [内存消耗：3,762.48kb] [文件加载：80]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025365s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.017603s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6' LIMIT 1 [ RunTime:0.016940s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:14:46+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.107047s] [吞吐率：9.34req/s] [内存消耗：3,762.48kb] [文件加载：80]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028829s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.018609s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6' LIMIT 1 [ RunTime:0.018456s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:14:49+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.100889s] [吞吐率：9.91req/s] [内存消耗：3,762.48kb] [文件加载：80]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023892s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.016604s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6' LIMIT 1 [ RunTime:0.016168s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:14:53+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.101805s] [吞吐率：9.82req/s] [内存消耗：3,762.34kb] [文件加载：80]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028610s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.019655s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6' LIMIT 1 [ RunTime:0.019127s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:14:53+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.214332s] [吞吐率：4.67req/s] [内存消耗：3,762.48kb] [文件加载：80]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027873s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.018370s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6' LIMIT 1 [ RunTime:0.018081s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:14:56+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.082732s] [吞吐率：12.09req/s] [内存消耗：3,762.34kb] [文件加载：80]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023409s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.016146s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6' LIMIT 1 [ RunTime:0.015245s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:14:56+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.105982s] [吞吐率：9.44req/s] [内存消耗：3,762.48kb] [文件加载：80]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028524s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.018420s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6' LIMIT 1 [ RunTime:0.018375s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:14:59+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.088796s] [吞吐率：11.26req/s] [内存消耗：3,762.48kb] [文件加载：80]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026197s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.015687s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6' LIMIT 1 [ RunTime:0.015453s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:15:02+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.084345s] [吞吐率：11.86req/s] [内存消耗：3,762.48kb] [文件加载：80]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=6f9p1lfs1vlsomf96a78n82kc0; token=eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026057s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.015587s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'eabdbbd3c64339d8bc76e2c0729fa4eaa8a8c4e6' LIMIT 1 [ RunTime:0.015220s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:15:04+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.023034s] [吞吐率：43.41req/s] [内存消耗：2,178.75kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:15:07+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.019691s] [吞吐率：50.78req/s] [内存消耗：2,178.84kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:15:10+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.021838s] [吞吐率：45.79req/s] [内存消耗：2,178.84kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:15:14+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.028704s] [吞吐率：34.84req/s] [内存消耗：2,178.84kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:15:17+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.018295s] [吞吐率：54.66req/s] [内存消耗：2,178.84kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:15:20+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.023663s] [吞吐率：42.26req/s] [内存消耗：2,178.84kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:15:23+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.018310s] [吞吐率：54.62req/s] [内存消耗：2,178.84kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:15:26+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.018546s] [吞吐率：53.92req/s] [内存消耗：2,178.84kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:15:29+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.039286s] [吞吐率：25.45req/s] [内存消耗：2,178.84kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:15:32+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.038448s] [吞吐率：26.01req/s] [内存消耗：2,178.84kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:15:35+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.019262s] [吞吐率：51.92req/s] [内存消耗：2,178.84kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:15:39+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.020476s] [吞吐率：48.84req/s] [内存消耗：2,178.84kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:15:42+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.025027s] [吞吐率：39.96req/s] [内存消耗：2,178.84kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:15:45+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.018918s] [吞吐率：52.86req/s] [内存消耗：2,178.84kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:15:48+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.025732s] [吞吐率：38.86req/s] [内存消耗：2,178.84kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:15:51+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.036751s] [吞吐率：27.21req/s] [内存消耗：2,178.84kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:15:54+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.018975s] [吞吐率：52.70req/s] [内存消耗：2,178.84kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:15:57+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.020819s] [吞吐率：48.03req/s] [内存消耗：2,178.84kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:16:00+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.020230s] [吞吐率：49.43req/s] [内存消耗：2,087.34kb] [文件加载：64]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [4]语法错误: unexpected 'public' (T_PUBLIC), expecting ',' or ';'[F:\wamp\www\htdocs\photo\application\admin\controller\BaseController.php:12]
+---------------------------------------------------------------
+[ 2018-06-18T23:22:11+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.023786s] [吞吐率：42.04req/s] [内存消耗：2,150.69kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [2]explode() expects at least 2 parameters, 1 given[F:\wamp\www\htdocs\photo\application\admin\controller\BaseController.php:20]
+---------------------------------------------------------------
+[ 2018-06-18T23:22:34+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.028743s] [吞吐率：34.79req/s] [内存消耗：2,034.04kb] [文件加载：62]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[ 2018-06-18T23:22:43+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.017656s] [吞吐率：56.64req/s] [内存消耗：2,034.04kb] [文件加载：62]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[ 2018-06-18T23:22:48+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.019466s] [吞吐率：51.37req/s] [内存消耗：2,150.69kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [2]explode() expects at least 2 parameters, 1 given[F:\wamp\www\htdocs\photo\application\admin\controller\BaseController.php:20]
+---------------------------------------------------------------
+[ 2018-06-18T23:23:14+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.019798s] [吞吐率：50.51req/s] [内存消耗：2,151.62kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [2]explode() expects at least 2 parameters, 1 given[F:\wamp\www\htdocs\photo\application\admin\controller\BaseController.php:19]
+---------------------------------------------------------------
+[ 2018-06-18T23:23:14+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.019225s] [吞吐率：52.02req/s] [内存消耗：2,151.62kb] [文件加载：68]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [2]explode() expects at least 2 parameters, 1 given[F:\wamp\www\htdocs\photo\application\admin\controller\BaseController.php:19]
+---------------------------------------------------------------
+[ 2018-06-18T23:23:27+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.018768s] [吞吐率：53.28req/s] [内存消耗：2,034.19kb] [文件加载：62]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[ 2018-06-18T23:23:28+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.023138s] [吞吐率：43.22req/s] [内存消耗：2,034.19kb] [文件加载：62]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[ 2018-06-18T23:23:42+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.018413s] [吞吐率：54.31req/s] [内存消耗：2,181.78kb] [文件加载：67]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:23:42+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.021898s] [吞吐率：45.67req/s] [内存消耗：1,573.79kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T23:23:42+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.025425s] [吞吐率：39.33req/s] [内存消耗：2,181.78kb] [文件加载：67]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:23:43+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.024191s] [吞吐率：41.34req/s] [内存消耗：1,573.79kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T23:23:43+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.018849s] [吞吐率：53.05req/s] [内存消耗：2,181.78kb] [文件加载：67]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:23:43+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.016152s] [吞吐率：61.91req/s] [内存消耗：1,573.79kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T23:23:43+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.018629s] [吞吐率：53.68req/s] [内存消耗：2,181.78kb] [文件加载：67]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:23:43+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.018637s] [吞吐率：53.66req/s] [内存消耗：1,573.79kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T23:23:49+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.104021s] [吞吐率：9.61req/s] [内存消耗：3,675.09kb] [文件加载：76]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'content-length' => '30',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'admin_name' => 'admin',
+  'admin_pwd' => '123',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027017s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.018687s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `admin_name` = 'admin'  AND `admin_pwd` = '40bd001563085fc35165329ea1ff5c5ecbdbbeef' LIMIT 1 [ RunTime:0.018401s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:23:54+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.110691s] [吞吐率：9.03req/s] [内存消耗：3,678.27kb] [文件加载：76]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7',
+  'content-length' => '33',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'admin_name' => 'admin',
+  'admin_pwd' => '123456',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025273s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.014690s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `admin_name` = 'admin'  AND `admin_pwd` = '7c4a8d09ca3762af61e59520943dc26494f8941b' LIMIT 1 [ RunTime:0.014610s ]
+[ sql ] [ SQL ] UPDATE `pht_admin`  SET `last_time` = '1529335434' , `token` = '4b5a847161e01d5ca7f0c3c913498baf666b6242'  WHERE  `admin_id` = 1 [ RunTime:0.014147s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:23:54+08:00 ] 127.0.0.1 GET photo.p/admin/index/index.html
+[运行时间：0.094725s] [吞吐率：10.56req/s] [内存消耗：3,765.58kb] [文件加载：80]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7; token=be0d159dcedc3a33294207fcc4db71fc2010e171',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.029874s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.018209s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'be0d159dcedc3a33294207fcc4db71fc2010e171' LIMIT 1 [ RunTime:0.018009s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:23:58+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.018229s] [吞吐率：54.86req/s] [内存消耗：2,181.81kb] [文件加载：67]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=v39rkg63f36io1r9fcg3p0smo7; token=be0d159dcedc3a33294207fcc4db71fc2010e171',
+  'referer' => 'http://photo.p/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:23:58+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.026516s] [吞吐率：37.71req/s] [内存消耗：1,573.84kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T23:24:13+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.020683s] [吞吐率：48.35req/s] [内存消耗：2,181.18kb] [文件加载：67]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'referer' => 'http://photo.p/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:24:14+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.016763s] [吞吐率：59.66req/s] [内存消耗：1,573.79kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T23:24:24+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.127646s] [吞吐率：7.83req/s] [内存消耗：3,678.27kb] [文件加载：76]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=nul01593u3ai4562bapdbm3070',
+  'content-length' => '33',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'admin_name' => 'admin',
+  'admin_pwd' => '123456',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025757s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.016172s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `admin_name` = 'admin'  AND `admin_pwd` = '7c4a8d09ca3762af61e59520943dc26494f8941b' LIMIT 1 [ RunTime:0.016080s ]
+[ sql ] [ SQL ] UPDATE `pht_admin`  SET `last_time` = '1529335464' , `token` = 'a53bce77789372cd0985be8a1c9283376572a10f'  WHERE  `admin_id` = 1 [ RunTime:0.016208s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:24:24+08:00 ] 127.0.0.1 GET photo.p/admin/index/index.html
+[运行时间：0.098237s] [吞吐率：10.18req/s] [内存消耗：3,765.58kb] [文件加载：80]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=nul01593u3ai4562bapdbm3070; token=ec9de8cd0a6119735c4e18ff9e964f736f085884',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\framework\tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027570s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.017679s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'ec9de8cd0a6119735c4e18ff9e964f736f085884' LIMIT 1 [ RunTime:0.017156s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:24:27+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.031032s] [吞吐率：32.22req/s] [内存消耗：2,181.81kb] [文件加载：67]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=nul01593u3ai4562bapdbm3070; token=ec9de8cd0a6119735c4e18ff9e964f736f085884',
+  'referer' => 'http://photo.p/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:24:27+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.019892s] [吞吐率：50.27req/s] [内存消耗：1,573.84kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T23:24:52+08:00 ] 127.0.0.1 GET photo.p/admin/index/login.html
+[运行时间：0.018461s] [吞吐率：54.17req/s] [内存消耗：2,181.94kb] [文件加载：67]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=nul01593u3ai4562bapdbm3070; token=ec9de8cd0a6119735c4e18ff9e964f736f085884',
+  'referer' => 'http://photo.p/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] F:\wamp\www\htdocs\photo\application\admin\view\index\login.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-06-18T23:24:52+08:00 ] 127.0.0.1 GET photo.p/static/bootstrap/js/bootstrap.js
+[运行时间：0.016039s] [吞吐率：62.35req/s] [内存消耗：1,573.77kb] [文件加载：51]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-06-18T23:24:57+08:00 ] 127.0.0.1 POST photo.p/admin/index/login.html
+[运行时间：0.143918s] [吞吐率：6.95req/s] [内存消耗：3,678.27kb] [文件加载：76]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=nul01593u3ai4562bapdbm3070; token=ec9de8cd0a6119735c4e18ff9e964f736f085884',
+  'content-length' => '33',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+  'admin_name' => 'admin',
+  'admin_pwd' => '123456',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026403s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.018017s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `admin_name` = 'admin'  AND `admin_pwd` = '7c4a8d09ca3762af61e59520943dc26494f8941b' LIMIT 1 [ RunTime:0.017666s ]
+[ sql ] [ SQL ] UPDATE `pht_admin`  SET `last_time` = '1529335497' , `token` = 'b87c27c8a3c709c5e5bb5dd2a45a61273a23df42'  WHERE  `admin_id` = 1 [ RunTime:0.017879s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:24:57+08:00 ] 127.0.0.1 GET photo.p/admin/index/index.html
+[运行时间：0.085229s] [吞吐率：11.73req/s] [内存消耗：3,649.98kb] [文件加载：75]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=nul01593u3ai4562bapdbm3070; token=b87c27c8a3c709c5e5bb5dd2a45a61273a23df42',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024568s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.016681s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'b87c27c8a3c709c5e5bb5dd2a45a61273a23df42' LIMIT 1 [ RunTime:0.016757s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:24:59+08:00 ] 127.0.0.1 GET photo.p/admin/index/index.html
+[运行时间：0.102217s] [吞吐率：9.78req/s] [内存消耗：3,650.14kb] [文件加载：75]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=nul01593u3ai4562bapdbm3070; token=b87c27c8a3c709c5e5bb5dd2a45a61273a23df42',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026855s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.018802s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'b87c27c8a3c709c5e5bb5dd2a45a61273a23df42' LIMIT 1 [ RunTime:0.018314s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:25:00+08:00 ] 127.0.0.1 GET photo.p/admin/index/index.html
+[运行时间：0.099604s] [吞吐率：10.04req/s] [内存消耗：3,650.14kb] [文件加载：75]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=nul01593u3ai4562bapdbm3070; token=b87c27c8a3c709c5e5bb5dd2a45a61273a23df42',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.030721s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.020114s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'b87c27c8a3c709c5e5bb5dd2a45a61273a23df42' LIMIT 1 [ RunTime:0.019855s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:25:00+08:00 ] 127.0.0.1 GET photo.p/admin/index/index.html
+[运行时间：0.076685s] [吞吐率：13.04req/s] [内存消耗：3,650.14kb] [文件加载：75]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=nul01593u3ai4562bapdbm3070; token=b87c27c8a3c709c5e5bb5dd2a45a61273a23df42',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021863s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.014719s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'b87c27c8a3c709c5e5bb5dd2a45a61273a23df42' LIMIT 1 [ RunTime:0.014921s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:25:00+08:00 ] 127.0.0.1 GET photo.p/admin/index/index.html
+[运行时间：0.091541s] [吞吐率：10.92req/s] [内存消耗：3,650.14kb] [文件加载：75]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=nul01593u3ai4562bapdbm3070; token=b87c27c8a3c709c5e5bb5dd2a45a61273a23df42',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028064s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.017761s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'b87c27c8a3c709c5e5bb5dd2a45a61273a23df42' LIMIT 1 [ RunTime:0.019561s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:25:01+08:00 ] 127.0.0.1 GET photo.p/admin/index/index.html
+[运行时间：0.098899s] [吞吐率：10.11req/s] [内存消耗：3,650.14kb] [文件加载：75]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=nul01593u3ai4562bapdbm3070; token=b87c27c8a3c709c5e5bb5dd2a45a61273a23df42',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.029982s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.020677s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'b87c27c8a3c709c5e5bb5dd2a45a61273a23df42' LIMIT 1 [ RunTime:0.019806s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:25:06+08:00 ] 127.0.0.1 GET photo.p/admin/index/index.html
+[运行时间：0.089259s] [吞吐率：11.20req/s] [内存消耗：3,650.14kb] [文件加载：75]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=nul01593u3ai4562bapdbm3070; token=b87c27c8a3c709c5e5bb5dd2a45a61273a23df42',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026884s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.018141s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'b87c27c8a3c709c5e5bb5dd2a45a61273a23df42' LIMIT 1 [ RunTime:0.018008s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:25:07+08:00 ] 127.0.0.1 GET photo.p/admin/index/index.html
+[运行时间：0.087573s] [吞吐率：11.42req/s] [内存消耗：3,650.14kb] [文件加载：75]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=nul01593u3ai4562bapdbm3070; token=b87c27c8a3c709c5e5bb5dd2a45a61273a23df42',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027647s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.017368s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'b87c27c8a3c709c5e5bb5dd2a45a61273a23df42' LIMIT 1 [ RunTime:0.017029s ]
+---------------------------------------------------------------
+[ 2018-06-18T23:25:07+08:00 ] 127.0.0.1 GET photo.p/admin/index/index.html
+[运行时间：0.093558s] [吞吐率：10.69req/s] [内存消耗：3,650.14kb] [文件加载：75]
+[ info ] [ LANG ] F:\wamp\www\htdocs\photo\framework\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=nul01593u3ai4562bapdbm3070; token=b87c27c8a3c709c5e5bb5dd2a45a61273a23df42',
+  'referer' => 'http://photo.p/admin/index/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0',
+  'host' => 'photo.p',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.029773s ] mysql:host=47.106.12.94;dbname=photo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `pht_admin` [ RunTime:0.019643s ]
+[ sql ] [ SQL ] SELECT * FROM `pht_admin` WHERE  `token` = 'b87c27c8a3c709c5e5bb5dd2a45a61273a23df42' LIMIT 1 [ RunTime:0.018973s ]
