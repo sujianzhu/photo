@@ -45,3 +45,5 @@ function sha1Microtime(){
     return sha1(microtime());
 }
 
+
+

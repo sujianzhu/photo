@@ -1,0 +1,68 @@
+<header class="ns-base-header">
+    <div class="ns-logo" onclick="location.href='{:url()}';"></div>
+    <div class="ns-search">
+        <div class="nav-menu js-nav">
+            <img src="__STATIC__/images/nav_menu.png" title="导航管理" />
+        </div>
+        <div class="ns-navigation-management">
+            <div class="ns-navigation-title">
+                <h4>导航管理</h4>
+                <span>x</span>
+            </div>
+            <div style="height:40px;"></div>
+            {volist name='menu' id='r'}
+            <dl>
+                <dt>{$r.name}</dt>
+                {volist name='r.son' id='rr'}
+                <dd>
+                    <a href="{:getMenuUrl($rr.url,$rr.id)}">{$rr.name}</a>
+                </dd>
+                {/volist}
+            </dl>
+            {/volist}
+        </div>
+        <div class="ns-search-block">
+            <i class="fa fa-search" title="搜索"></i>
+            <span>搜索</span>
+            <div class="mask-layer-search">
+                <input type="text" id="search_goods" placeholder="搜索" />
+                <a href="javascript:search();"><img src="/public/static/blue/img/enter.png"/></a>
+            </div>
+        </div>
+    </div>
+    <nav>
+        <ul>
+            {volist name='menu' id='r'}
+            <li {if $r.id==$menu_id1 }class="selected"{/if} onclick="location.href='{:getMenuUrl($r.url,$r.id)}';">
+                <span>{$r.name}</span>
+            </li>
+            {/volist}
+        </ul>
+    </nav>
+    <div class="ns-base-tool">
+        <!--<i class="i-home"  title="前台首页"><a href="__HOST__" target="_blank"></a></i>-->
+        <i class="i-close" title="退出登录"><a href="{:url('index/logout')}"></a></i>
+        <i class="ns-vertical-bar"></i>
+        <div class="ns-help">
+            <div class="logo">
+                <img src="__STATIC__/images/user_admin_blue.png" width="30" >
+            </div>
+            <span>admin</span>
+            <i class="fa fa-angle-down"></i>
+            <ul>
+                <li>
+                    <img src="__STATIC__/images/add_favorites.png" />
+                    <a href="#edit-password" data-toggle="modal" title="修改密码">修改密码</a>
+                </li>
+                <li title="清理缓存" onclick="delcache()">
+                    <img src="__STATIC__/images/clear_the_cache.png"/>
+                    <a href="javascript:;">清理缓存</a>
+                </li>
+                <li title="加入收藏" onclick="addFavorite()">
+                    <img src="__STATIC__/images/add_favorites.png" />
+                    <a href="javascript:;">加入收藏</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</header>

@@ -18,16 +18,24 @@ class IndexController extends BaseController{
             $pwd = input('admin_pwd');
             if($token = $adminModel->doLogin($name, $pwd)){
                 cookie('token',$token);
-                return jsonTo(1,'登陆成功');
+                $url = url('Index/index','menuid=1');
+                return jsonTo(1,'登陆成功',$url);
             }else{
                 return jsonTo(0,'登陆失败');
             }
         }
+        $this->view->engine->layout(false);
         return view('login');
+    }
+
+    //推出登陆
+    public function logout(){
+        cookie('token',null);
+        return redirect(url('login'));
     }
 
     //管理后台首页
     public function index(){
-
+        return view ('main');
     }
 }

@@ -1,0 +1,216 @@
+<!-- 公共的操作提示弹出框 common-success：成功，common-warning：警告，common-error：错误，-->
+<div class="common-tip-message js-common-tip">
+    <div class="tip-container">
+        <span class="inner"></span>
+    </div>
+</div>
+
+<!--修改密码弹出框 -->
+<div id="edit-password" class="modal hide fade" tabindex="-1" aria-labelledby="myModalLabel" aria-hidden="true" style="width:562px;top:50%;margin-top:-180.5px;">
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h3>修改密码</h3>
+    </div>
+    <div class="modal-body">
+        <form class="form-horizontal">
+            <div class="control-group">
+                <label class="control-label" for="pwd0" style="width: 160px;"><span class="color-red">*</span>原密码</label>
+                <div class="controls" style="margin-left: 180px;">
+                    <input type="password" id="pwd0" placeholder="请输入原密码" class="input-common" />
+                    <span class="help-block"></span>
+                </div>
+            </div>
+            <div class="control-group">
+                <label class="control-label" for="pwd1" style="width: 160px;"><span class="color-red">*</span>新密码</label>
+                <div class="controls" style="margin-left: 180px;">
+                    <input type="password" id="pwd1" placeholder="请输入新密码" class="input-common" />
+                    <span class="help-block"></span>
+                </div>
+            </div>
+            <div class="control-group">
+                <label class="control-label" for="pwd2" style="width: 160px;"><span class="color-red">*</span>再次输入密码</label>
+                <div class="controls" style="margin-left: 180px;">
+                    <input type="password" id="pwd2" placeholder="请输入确认密码" class="input-common" />
+                    <span class="help-block"></span>
+                </div>
+            </div>
+            <div style="text-align: center; height: 20px;" id="show"></div>
+        </form>
+    </div>
+    <div class="modal-footer">
+        <button class="btn-common btn-big" onclick="submitPassword()" style="display:inline-block;">保存</button>
+        <button class="btn-common-cancle btn-big" data-dismiss="modal" aria-hidden="true">关闭</button>
+    </div>
+</div>
+
+<link rel="stylesheet" type="text/css" href="__STATIC__/css/jquery-ui-private.css">
+<script type="text/javascript" src="__STATIC__/js/jquery-ui-private.js" charset="utf-8"></script>
+<script type="text/javascript" src="__STATIC__/js/jquery.timers.js"></script>
+<div id="dialog"></div>
+<script type="text/javascript">
+    function showMessage(type, message,url,time){
+        if(url == undefined){
+            url = '';
+        }
+        if(time == undefined){
+            time = 2;
+        }
+        //成功之后的跳转
+        if(type == 'success'){
+            $( "#dialog").dialog({
+                buttons: {
+                    "确定,#0059d6,#fff": function() {
+                        $(this).dialog('close');
+                    }
+                },
+                contentText:message,
+                time:time,
+                timeHref: url,
+                msgType : type
+            });
+        }
+        //失败之后的跳转
+        if(type == 'error'){
+            $( "#dialog").dialog({
+                buttons: {
+                    "确定,#0059d6,#fff": function() {
+                        $(this).dialog('close');
+                    }
+                },
+                time:time,
+                contentText:message,
+                timeHref: url,
+                msgType : type
+            });
+        }
+    }
+
+    function showConfirm(content){
+        $( "#dialog").dialog({
+            buttons: {
+                "确定": function() {
+                    $(this).dialog('close');
+                    return 1;
+                },
+                "取消,#f5f5f5,#666": function() {
+                    $(this).dialog('close');
+                    return 0;
+                }
+            },
+            contentText:content,
+        });
+    }
+</script>
+<script src="__STATIC__/js/ns_common_base.js"></script>
+<script src="__STATIC__/js/ns_common_blue.js"></script>
+<script>
+    window.onload = function(){
+
+    }
+    $(function(){
+
+        $(".ns-third-menu ul .btn-more").toggle(
+            function(){
+                $(".ns-third-menu ul").animate({height:"84px"},300);
+            },
+            function(){
+                $(".ns-third-menu ul").animate({height:"42px"},300);
+            }
+        );
+
+        //公共下拉框
+        $('.select-common').selectric();
+
+        //公共复选框点击切换样式
+        $(".checkbox-common").live("click",function(){
+            var checkbox = $(this).children("input");
+            if(checkbox.is(":checked")) $(this).addClass("selected");
+            else $(this).removeClass("selected");
+        });
+
+        //鼠标浮上查看预览上传的图片
+        $(".upload-btn-common>img,#preview_adv").live("mouseover",function(){
+            var curr = $(this);
+            var src = curr.attr("data-src");
+            if(src){
+                //alert(src);
+                var contents = '<img src="'+src+'" style="width: 100px;height: auto;display:block;margin:0 auto;">';
+                //鼠标每次浮上图片时，要销毁之前的事件绑定
+                curr.popover("destroy");
+
+                //重新配置弹出框内容
+                curr.popover({ content : contents });
+
+                //显示
+                curr.popover("show");
+            }
+        });
+
+        //鼠标离开隐藏预览上传的图片
+        $(".upload-btn-common>img,#preview_adv").live("mouseout",function(){
+            var curr = $(this);
+            //隐藏
+            if($(".popover.top").is(":visible") && curr.attr("data-src")) curr.popover("hide");
+        });
+
+        //公共单选框点击切换样式
+        $(".radio-common").live("click",function(){
+            var radio = $(this).children("input");
+            var name = radio.attr("name");
+            if(radio.is(":checked")){
+                $(".radio-common>input[type='radio'][name='" + name + "']").parent().removeClass("selected");
+                $(this).addClass("selected");
+            }else{
+                $(this).removeClass("selected");
+            }
+        });
+
+        //顶部导航管理显示隐藏
+        $(".ns-navigation-title>span").click(function(){
+            $(".ns-navigation-management").slideUp(400);
+        });
+
+        $(".js-nav").toggle(function(){
+            $(".ns-navigation-management").slideDown(400);
+        },function(){
+            $(".ns-navigation-management").slideUp(400);
+        });
+
+        //搜索展开
+        $(".ns-search-block").hover(function(){
+            if($(this).children(".mask-layer-search").is(":hidden")) $(this).children(".mask-layer-search").fadeIn(300);
+        },function(){
+            if($(this).children(".mask-layer-search").is(":visible")) $(this).children(".mask-layer-search").fadeOut(300);
+        });
+
+        $(".ns-base-tool .ns-help").hover(function(){
+            if($(this).children("ul").is(":hidden")) $(this).children("ul").fadeIn(250);
+        },function(){
+            if($(this).children("ul").is(":visible")) $(this).children("ul").fadeOut(250);
+        });
+
+    });
+
+    function addFavorite() {
+        var url = window.location;
+        var title = document.title;
+        var ua = navigator.userAgent.toLowerCase();
+        if (ua.indexOf("360se") > -1) {
+            alert("由于360浏览器功能限制，请按 Ctrl+D 手动收藏！");
+        }else if (ua.indexOf("msie 8") > -1) {
+            window.external.AddToFavoritesBar(url, title); //IE8
+        }
+        else if (document.all) {
+            try{
+                window.external.addFavorite(url, title);
+            }catch(e){
+                alert('您的浏览器不支持,请按 Ctrl+D 手动收藏!');
+            }
+        }else if (window.sidebar) {
+            window.sidebar.addPanel(title, url, "");
+        }else {
+            alert('您的浏览器不支持,请按 Ctrl+D 手动收藏!');
+        }
+    }
+
+</script>

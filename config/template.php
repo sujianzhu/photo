@@ -37,4 +37,7 @@ return [
         '__STATIC__' => '/static',
         '__HOST__' => config('app_host'),
     ),
+
+    'layout_on' =>  true,
+    'layout_name' => 'layout',
 ];

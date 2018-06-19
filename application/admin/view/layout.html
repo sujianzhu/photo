@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-COMPATIBLE" content="IE=edge,chrome=1"/>
+    <title>Niushop开源商城 - 商家管理</title>
+    <link rel="shortcut icon" type="image/x-icon" href="__STATIC__/images/admin_icon.ico" media="screen"/>
+    <link rel="stylesheet" type="text/css" href="__STATIC__/bootstrap/css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="__STATIC__/css/common.css" />
+    <link rel="stylesheet" type="text/css" href="__STATIC__/font-awesome/css/font-awesome.min.css" />
+    <link rel="stylesheet" type="text/css" href="__STATIC__/simple-switch/css/simple.switch.three.css" />
+    <link rel="stylesheet" type="text/css" href="__STATIC__/css/selectric.css" />
+    <style>
+        .Switch_FlatRadius.On span.switch-open{background-color: #126AE4;border-color: #126AE4;}
+        #copyright_meta a{color:#333;}
+    </style>
+    <link rel="stylesheet" type="text/css" href="__STATIC__/css/ns_table_style.css">
+    <script src="__STATIC__/js/jquery-1.8.1.min.js"></script>
+    <script src="__STATIC__/bootstrap/js/bootstrap.js"></script>
+    <script src="__STATIC__/bootstrap/js/bootstrapSwitch.js"></script>
+    <script src="__STATIC__/simple-switch/js/simple.switch.js"></script>
+    <script src="__STATIC__/js/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="__STATIC__/js/common.js"></script>
+    <script src="__STATIC__/js/seller.js"></script>
+    <script src="__STATIC__/js/load_task.js"></script>
+    <script src="__STATIC__/js/layer/layer.js"></script>
+    <script src="__STATIC__/js/jquery-ui.min.js"></script>
+    <script src="__STATIC__/js/ns_tool.js"></script>
+    <script src="__STATIC__/js/jquery.selectric.js"></script>
+    <script src="__STATIC__/js/index.js"></script>
+</head>
+<body>
+
+<article class="ns-base-article">
+    {include file="menu" /}
+    <aside class="ns-base-aside">
+        <div class="ns-main-block">
+            <h3 style="margin-top:50px;">
+                <span class="{$cur_menu.name}">{$cur_menu.name}</span>
+                <i class="fa fa-caret-down"></i>
+            </h3>
+            <nav>
+                <ul>
+                    {volist name='cur_menu.son' id='r'}
+                    <li {if $r.id==$menu_id2 }class="selected"{/if} onclick="location.href='{:getMenuUrl($r.url,$r.id)}';" title="{$r.name}">{$r.name}</li>
+                    {/volist}
+                    <!-- 快捷菜单列表 -->
+                </ul>
+
+                <!-- 快捷菜单设置按钮 -->
+                <!--<div class="shortcut-menu" onclick="show_shortcut_menu()">
+                    <span></span>
+                    常用功能
+                </div>-->
+            </nav>
+
+            <div style="height:50px;"></div>
+
+            <div id="bottom_copyright">
+                <footer>
+                    <img id="copyright_logo"/>
+                </footer>
+            </div>
+        </div>
+    </aside>
+
+    <section class="ns-base-section">
+        {__CONTENT__}
+    </section>
+</article>
+{include file="common" /}
+</body>
+</html>
